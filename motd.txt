@@ -1,1 +1,1 @@
-added colectables
+Fixed some bugs
