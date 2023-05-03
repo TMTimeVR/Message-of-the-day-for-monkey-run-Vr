@@ -1,1 +1,1 @@
-Fixed many bugs
+Fixed the skull cosmetic
