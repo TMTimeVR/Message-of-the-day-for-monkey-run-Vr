@@ -1,1 +1,1 @@
-Added a wifi checker, map loaders, players online and playfab id display
+Added a wifi checker, players online and playfab id display
