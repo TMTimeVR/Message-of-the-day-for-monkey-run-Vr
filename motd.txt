@@ -1,2 +1,1 @@
-Hey guys/girls/idk! I fixed the lightning and made it better! I fixed the glitch where you just could get out of the map at the zerogravity entrance!
-I fixed playfab too!
+Hey guys/girls/idk! HAPPY 400th UPDATE!!! I added IAP(In app purchasing(still getting approved)) and fixed some glitches.
