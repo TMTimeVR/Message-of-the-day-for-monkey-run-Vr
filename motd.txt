@@ -1,1 +1,1 @@
-Hey guys/girls/idk! A new test lockdown is going to happen.
+Hey guys/girls/idk! I added anti aliasing.
