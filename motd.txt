@@ -1,1 +1,1 @@
-Hey guys/girls/idk! I added anti aliasing. The textures might be bad but I will fix it.
+Hey guys/girls/idk! I removed anti aliasing.
